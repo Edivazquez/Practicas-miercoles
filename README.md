@@ -1,7 +1,7 @@
-                                                                                                                                                                            ## Actividad dia Miercoles 10 jul. 2024
+                                                                                                                             ## Actividad dia Miercoles 10 jul. 2024
 # Autor: Edgar Vazquez 
 
-actividad del dia 
+Actividad del dia 
 ```sql
 package com.example.segundo_intento
 
