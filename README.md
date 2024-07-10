@@ -1,5 +1,5 @@
                                               Actividad dia Miercoles 10 jul. 2024
-# Autor: Edgar Vazquez Rami
+# Autor: Edgar Vazquez Ramirez
 
 Actividad del dia 
 ```sql
