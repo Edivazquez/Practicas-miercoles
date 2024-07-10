@@ -1,4 +1,4 @@
-                                             ## Actividad dia Miercoles 10 jul. 2024
+                                              Actividad dia Miercoles 10 jul. 2024
 # Autor: Edgar Vazquez 
 
 Actividad del dia 
